@@ -42,7 +42,6 @@ Responder às três perguntas a seguir:
 
 *  Instale esse Banco de Dados NoSQL (cloud, on premise, VM), realize o setup inicial e crie uma prática implementando uma nova estrutura de dados inicial pertinente ao cenário escolhido e apresente como é possível manipular e exibir dados nesse ambiente de trabalho.
 
-*  Analisando os dados disponíveis da empresa Melhores Compras desde o início até o presente momento, identifique no mínimo duas importantes entidades que podem ser consideradas como dados mestres (MDM). Justifique o motivo da escolha. Cite no mínimo quatro atributos naturais que devem fazer parte de cada entidade.
 
 * 5ª Etapa: Hands On Big Data
 
